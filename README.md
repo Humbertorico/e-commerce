@@ -17,6 +17,9 @@
   ## Tests:
   ### Run the following commands in your terminal to test this app:
   ### log into your mysql and run "Source db/schema.sql", quit and run "node seeds" lasty run "node server.js" dont forget to "npm i" 
+  
+  ##demo
+  ### link: https://www.youtube.com/watch?v=yXLKoS7NwvU
 
   ## Questions:
   ### If you have any question, you may contact me at either
